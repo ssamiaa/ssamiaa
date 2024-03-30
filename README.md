@@ -1,5 +1,11 @@
 ### Hello there 👋 I'm Samia
 An aspiring software developer with a passion for programming and innovation. When I'm not coding, you can find me exploring my love for design and art, diving into a good book, or shooting hoops on the basketball court. I'm enthusiastic about leveraging technology to create meaningful solutions and constantly pushing the boundaries of what's possible.  
+- 🔭 I'm currently working on making my personal portfolio website.
+- 🌱 I'm currently learning HTML and JavaScript.
+- 👯 I’d love to collaborate on projects involving XR (Extended Reality).
+- 📫 How to reach me: samiasajid2@gmail.com
+- ⚡ Fun fact: Obsessive Reader 📚  
+  
 Let's connect and collaborate to build something amazing together! 🚀
 <!--
 **ssamiaa/ssamiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
