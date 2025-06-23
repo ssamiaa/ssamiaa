@@ -1,29 +1,15 @@
-<h1 align="center">👋 Hello, I'm Samia! 🌌</h1>
+<h1 align="center"> hi I'm Samia :)  🌌</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6B8EFB&width=435&lines=Developer+%26+Designer;Lifelong+Learner+%F0%9F%8C%8A" alt="Typing SVG" />
 </p>
 
 ---
-
-### ✨ About Me
-- 🌟 I’m passionate about **combining creativity with technology** to solve problems and design innovative solutions.
-- 🎨 I’m interested in **XR development**, **technical art**, and **creating immersive experiences**.
-- 💻 I love **learning to solve problems through code** and crafting meaningful projects.
-- 🎮 Currently working on **creating VR projects** for **education** and **clinical training**.
-
----
-
-### 🌟 I’m interested in exploring~
-- 🤖 **Machine Learning**
-- 🧠 **Artificial Intelligence**
-- 🔗 **Blockchain**
-- 🖥️ **Human-Computer Interaction**
-
----
+- 🎓 CS student with interests across **computer graphics**, **UX/UI design**, **software development**, and **AI**.
+- I love working where **code meets creativity**—solving real-world problems through thoughtful design and technical insight.
+- 🔭 My long-term goal is to help build **XR tools for medical training and education**, making learning more immersive and accessible.
 
 ### 🛠️ My Tech Stack
-#### What I Know:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,8 +18,6 @@
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23000000.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-#### Currently Learning:
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-%2300599C.svg?style=for-the-badge&logo=typescript&logoColor=white)
