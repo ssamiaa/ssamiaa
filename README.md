@@ -34,7 +34,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/ssamiaa/creator-ai-os">
+  <a href="https://github.com/ssamiaa/stack-or-crack">
     <img src="https://img.shields.io/badge/-CLICK_HERE_for_latest_project-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Click Here">
   </a>
 </p>
